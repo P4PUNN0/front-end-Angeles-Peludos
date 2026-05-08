@@ -96,13 +96,6 @@ Angeles Peludos/
 | Redes Sociales | ![Redes sociales](imagenes-muestra/5.png) |
 | Footer | ![Footer](imagenes-muestra/6.png) |
 
-## 🤝 Contribuir
-
-1. Haz un fork del proyecto
-2. Crea tu rama de feature (`git checkout -b feature/AmazingFeature`)
-3. Haz commit de tus cambios (`git commit -m 'Add some AmazingFeature'`)
-4. Push a la rama (`git push origin feature/AmazingFeature`)
-5. Abre un Pull Request
 
 ## 📞 Contacto
 
