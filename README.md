@@ -34,6 +34,13 @@ Angeles Peludos/
 ├── README.md                           # Documentación
 ├── DEFECTOS_CORREGIDOS.md              # Notas de correcciones
 ├── MEJORAS_ESTETICAS.md                # Notas de mejoras
+├── imagenes-muestra/                   # Capturas de pantalla del sitio
+│   ├── 1.png
+│   ├── 2.png
+│   ├── 3.png
+│   ├── 4.png
+│   ├── 5.png
+│   └── 6.png
 └── angeles-peludos.org/
     ├── index.html                      # Página principal
     ├── history.html                    # Página de historia
@@ -80,7 +87,14 @@ Angeles Peludos/
 
 ## 📱 Capturas de Pantalla
 
-> Agrega aquí capturas del sitio en desktop y móvil.
+| Vista | Captura |
+|-------|---------|
+| Hero / Inicio | ![Hero](imagenes-muestra/1.png) |
+| Sección Nosotros | ![Nosotros](imagenes-muestra/2.png) |
+| Programas | ![Programas](imagenes-muestra/3.png) |
+| Redes Sociales | ![Redes](imagenes-muestra/4.png) |
+| Contacto | ![Contacto](imagenes-muestra/5.png) |
+| Footer | ![Footer](imagenes-muestra/6.png) |
 
 ## 🤝 Contribuir
 
