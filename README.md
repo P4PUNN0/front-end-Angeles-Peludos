@@ -92,8 +92,8 @@ Angeles Peludos/
 | Hero / Inicio | ![Hero](imagenes-muestra/1.png) |
 | Sección Nosotros | ![Nosotros](imagenes-muestra/2.png) |
 | Programas | ![Programas](imagenes-muestra/3.png) |
-| Redes Sociales | ![Redes](imagenes-muestra/4.png) |
-| Contacto | ![Contacto](imagenes-muestra/5.png) |
+| Unirte a nosotros | ![Unirte a nosotros](imagenes-muestra/4.png) |
+| Redes Sociales | ![Redes sociales](imagenes-muestra/5.png) |
 | Footer | ![Footer](imagenes-muestra/6.png) |
 
 ## 🤝 Contribuir
