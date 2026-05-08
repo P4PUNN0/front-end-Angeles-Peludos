@@ -60,7 +60,7 @@ Angeles Peludos/
 
 1. Clona el repositorio:
    ```bash
-   git clone https://github.com/tu-usuario/angeles-peludos.git
+   git clone https://github.com/P4PUNN0/front-end-Angeles-Peludos
    ```
 
 2. Abre `angeles-peludos.org/index.html` en tu navegador o sirve el proyecto con un servidor local:
