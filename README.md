@@ -106,7 +106,6 @@ Angeles Peludos/
 
 ## 📞 Contacto
 
-- **WhatsApp**: [+52 55 2537 2818](https://wa.me/+525525372818)
 - **Instagram**: [@_angelespeludos](https://www.instagram.com/_angelespeludos/)
 - **Facebook**: [AngelesPeludosAC](https://www.facebook.com/AngelesPeludosAC/)
 - **TikTok**: [@_angelespeludos](https://www.tiktok.com/@_angelespeludos)
